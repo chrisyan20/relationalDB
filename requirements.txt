@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers (Latest) ######
+numpy
+pandas
+matplotlib
+re
+scikit
