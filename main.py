@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog, filedialog, font
 import logging
 import shutil
-from # import AdminLogin, AdminSetup
+from core import AdminLogin, AdminSetup
 from # import InterfaceDB
 
 # Defining Object
